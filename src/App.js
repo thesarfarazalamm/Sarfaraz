@@ -722,10 +722,10 @@ const App = () => {
                 </a>
                 <div className="flex justify-center gap-4">
                   {[
-                    { icon: MessageSquare, link: 'https://wa.me/919102265996' },
-                    { icon: Instagram, link: '#' },
+                    { icon: MessageSquare, link: 'https://wa.me/+971526331271' },
+                    { icon: Instagram, link: 'https://www.instagram.com/voonteza?igsh=MTAxODhsMHF0Njk3ZA==' },
                     { icon: Linkedin, link: '#' },
-                    { icon: Github, link: '#' }
+                    { icon: YouTube, link: 'https://www.youtube.com/@voonteza' }
                   ].map((soc, i) => (
                     <a key={i} href={soc.link} className="p-4 bg-gray-100 dark:bg-gray-900 rounded-2xl hover:bg-indigo-100 dark:hover:bg-amber-900 transition-colors">
                       <soc.icon size={24} className="text-gray-700 dark:text-gray-300" />
