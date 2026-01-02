@@ -486,10 +486,10 @@ const App = () => {
               Available for New Opportunities
             </span>
             <h1 className="text-5xl md:text-8xl font-black mb-8 leading-[1.1]">
-              Engineering <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 to-amber-500">Digital Solutions</span> That Last.
+              Where Java <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 to-amber-500">Engineering Meets</span> Creative Brilliance.
             </h1>
             <p className="max-w-2xl mx-auto text-lg md:text-xl text-gray-600 dark:text-gray-400 mb-12">
-              Full-stack developer specializing in building high-performance, scalable web applications with a focus on clean code and user experience.
+              I don't just write code; I craft digital experiences. With over 6 years of deep-tech involvement and 3+ years of official industry experience, I have successfully delivered 100+ projects across the globe. My Full-Stack mastery is amplified by professional photo/video editing and advanced AI integration—building high-performance ecosystems with a cinematic touch.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
               <button 
